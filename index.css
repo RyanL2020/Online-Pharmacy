@@ -10,6 +10,58 @@
 .container-3 {
     background-color: #bfdbf7;
 }
+.container-image-3a {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+
+}
+
+.container-image-3b {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+
+
+}
+
+
+.container-1-list {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.middle-container-pic {
+    width: 25%;
+    float: right;
+    margin-right: 130px;
+    top: -20px;
+}
+
+.image-container-1{
+   
+    text-align: right;
+    float: right;
+    padding: 0%;
+    padding-left: 0%;
+}
+
+.image-1 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.image-2 {
+    display: flex;
+    justify-content: center;
+
+}
+
 
 /* tags */
 
@@ -17,7 +69,13 @@ h1 {
     text-align: center;
 }
 
-img {
-    max-width: 25%;
-    max-height: auto;
+
+
+p {
+    text-align: center;
 }
+
+
+
+
+
