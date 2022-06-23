@@ -13,7 +13,7 @@
 .container-image-3a {
     margin: auto;
     width: 50%;
-    border: 3px solid green;
+    
     padding: 10px;
 
 }
@@ -21,7 +21,7 @@
 .container-image-3b {
     margin: auto;
     width: 50%;
-    border: 3px solid green;
+    
     padding: 10px;
 
 
@@ -67,12 +67,19 @@
 
 h1 {
     text-align: center;
+    font-family: 'Stoke', serif;
+    margin: auto;
 }
 
-
+img {
+    width: 25%;
+}
 
 p {
+    margin: 10px auto 0 auto;
     text-align: center;
+    font-family: 'Crimson Text', serif;
+    font-size: large;
 }
 
 
