@@ -1,6 +1,6 @@
 /* classes */
 .container-1 {
-    background-color: #ffffff;
+    background-color: #f4e9cd;
 }
 
 .container-2 {
@@ -38,8 +38,8 @@
 .middle-container-pic {
     width: 25%;
     float: right;
-    margin-right: 130px;
-    top: -20px;
+    margin-right: 90px;
+    margin-top: -100px;
 }
 
 .image-container-1{
